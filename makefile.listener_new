@@ -1,0 +1,15 @@
+# set the flags for the C and C++ compiler to give lots of warnings
+#
+CC = g++
+CFLAGS = -O2 -Wall -Wmissing-declarations
+CPPFLAGS = $(CFLAGS)
+
+listener_new: listener_new.c
+	$(CC) $(CFLAGS) -o $@ $^ -lipc -lgcm
+
+.PHONY: clean
+
+clean:
+	rm -f *.o *~ core 
+
+

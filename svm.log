@@ -1,0 +1,351 @@
+Sun Apr 23 19:27:49 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 19:27:49 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 19:27:49 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:27:49 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:27:49 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 19:27:49 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 19:30:48 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 19:30:48 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 19:30:48 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:30:48 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:30:48 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 19:30:48 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 19:32:48 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 19:32:48 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 19:32:48 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:32:48 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:32:48 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 19:32:48 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 19:36:37 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 19:36:37 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 19:36:37 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:36:37 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:36:37 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 19:36:37 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 19:43:22 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 19:43:22 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 19:43:22 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:43:22 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:43:22 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 19:43:22 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 19:43:22 2017  - INFO   : Connected to IPC as module svmd
+Sun Apr 23 19:43:22 2017  - INFO   : Defining IPC types and messages for SVM
+Sun Apr 23 19:43:22 2017  - INFO   : Vision: process 2793 responding
+Sun Apr 23 19:43:22 2017  - INFO   : Vision: ready
+
+Sun Apr 23 19:43:22 2017  - INFO   : Vision mode: Camera 0, half resolution
+Sun Apr 23 19:47:39 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 19:47:39 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 19:47:39 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:47:39 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 19:47:39 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 19:47:39 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 19:47:39 2017  - INFO   : Connected to IPC as module svmd
+Sun Apr 23 19:47:39 2017  - INFO   : Defining IPC types and messages for SVM
+Sun Apr 23 19:47:39 2017  - INFO   : Vision: process 2897 responding
+Sun Apr 23 19:47:39 2017  - INFO   : Vision: ready
+
+Sun Apr 23 19:47:39 2017  - INFO   : Vision mode: Camera 0, half resolution
+Sun Apr 23 19:47:39 2017  - FATAL  : Vision: Unable to open camera.
+Sun Apr 23 20:09:10 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 20:09:10 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 20:09:10 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 20:09:10 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 20:09:10 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 20:09:10 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 20:09:10 2017  - INFO   : Connected to IPC as module svmd
+Sun Apr 23 20:09:10 2017  - INFO   : Defining IPC types and messages for SVM
+Sun Apr 23 20:09:10 2017  - INFO   : Vision: process 3210 responding
+Sun Apr 23 20:09:10 2017  - INFO   : Vision: ready
+
+Sun Apr 23 20:09:10 2017  - INFO   : Vision mode: Camera 0, half resolution
+Sun Apr 23 20:11:03 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 20:11:03 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 20:11:03 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 20:11:03 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 20:11:03 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 20:11:03 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 20:11:03 2017  - INFO   : Connected to IPC as module svmd
+Sun Apr 23 20:11:03 2017  - INFO   : Defining IPC types and messages for SVM
+Sun Apr 23 20:11:03 2017  - INFO   : Vision: process 3302 responding
+Sun Apr 23 20:11:03 2017  - INFO   : Vision: ready
+
+Sun Apr 23 20:11:03 2017  - INFO   : Vision mode: Camera 0, half resolution
+Sun Apr 23 20:26:37 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 20:26:37 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 20:26:37 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 20:26:37 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 20:26:37 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 20:26:37 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 20:26:37 2017  - INFO   : Connected to IPC as module svmd
+Sun Apr 23 20:26:37 2017  - INFO   : Defining IPC types and messages for SVM
+Sun Apr 23 20:26:37 2017  - INFO   : Vision: process 3450 responding
+Sun Apr 23 20:26:37 2017  - INFO   : Vision: ready
+
+Sun Apr 23 20:26:37 2017  - INFO   : Vision mode: Camera 0, half resolution
+Sun Apr 23 20:59:20 2017  - INFO   : Vision Module: Starting vision module
+Sun Apr 23 20:59:20 2017  - INFO   : Vision: Initializing cameras
+Sun Apr 23 20:59:20 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 20:59:20 2017  - INFO   : Vision: reading camera config file
+Sun Apr 23 20:59:20 2017  - INFO   : Vision: Initializing IPC
+Sun Apr 23 20:59:20 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sun Apr 23 20:59:20 2017  - INFO   : Connected to IPC as module svmd
+Sun Apr 23 20:59:20 2017  - INFO   : Defining IPC types and messages for SVM
+Sun Apr 23 20:59:20 2017  - INFO   : Vision: process 3678 responding
+Sun Apr 23 20:59:20 2017  - INFO   : Vision: ready
+
+Sun Apr 23 20:59:20 2017  - INFO   : Vision mode: Camera 0, half resolution
+Wed Apr 26 22:21:55 2017  - INFO   : Vision Module: Starting vision module
+Wed Apr 26 22:21:55 2017  - INFO   : Vision: Initializing cameras
+Wed Apr 26 22:21:55 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 22:21:55 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 22:21:55 2017  - INFO   : Vision: Initializing IPC
+Wed Apr 26 22:21:55 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed Apr 26 22:21:55 2017  - INFO   : Connected to IPC as module svmd
+Wed Apr 26 22:21:55 2017  - INFO   : Defining IPC types and messages for SVM
+Wed Apr 26 22:21:55 2017  - INFO   : Vision: process 2907 responding
+Wed Apr 26 22:21:55 2017  - INFO   : Vision: ready
+
+Wed Apr 26 22:21:55 2017  - INFO   : Vision mode: Camera 0, half resolution
+Wed Apr 26 22:24:48 2017  - INFO   : Vision Module: Starting vision module
+Wed Apr 26 22:24:48 2017  - INFO   : Vision: Initializing cameras
+Wed Apr 26 22:24:48 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 22:24:48 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 22:24:48 2017  - INFO   : Vision: Initializing IPC
+Wed Apr 26 22:24:48 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed Apr 26 22:24:48 2017  - INFO   : Connected to IPC as module svmd
+Wed Apr 26 22:24:48 2017  - INFO   : Defining IPC types and messages for SVM
+Wed Apr 26 22:24:48 2017  - INFO   : Vision: process 2965 responding
+Wed Apr 26 22:24:48 2017  - INFO   : Vision: ready
+
+Wed Apr 26 22:24:48 2017  - INFO   : Vision mode: Camera 0, half resolution
+Wed Apr 26 22:26:39 2017  - INFO   : Vision Module: Starting vision module
+Wed Apr 26 22:26:39 2017  - INFO   : Vision: Initializing cameras
+Wed Apr 26 22:26:39 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 22:26:39 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 22:26:39 2017  - INFO   : Vision: Initializing IPC
+Wed Apr 26 22:26:39 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed Apr 26 22:26:39 2017  - INFO   : Connected to IPC as module svmd
+Wed Apr 26 22:26:39 2017  - INFO   : Defining IPC types and messages for SVM
+Wed Apr 26 22:26:39 2017  - INFO   : Vision: process 2981 responding
+Wed Apr 26 22:26:39 2017  - INFO   : Vision: ready
+
+Wed Apr 26 22:26:39 2017  - INFO   : Vision mode: Camera 0, half resolution
+Wed Apr 26 23:09:33 2017  - INFO   : Vision Module: Starting vision module
+Wed Apr 26 23:09:33 2017  - INFO   : Vision: Initializing cameras
+Wed Apr 26 23:09:33 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 23:09:33 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 23:09:33 2017  - INFO   : Vision: Initializing IPC
+Wed Apr 26 23:09:33 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed Apr 26 23:09:38 2017  - FATAL  : initIPC: Unable to connect to the central server
+Wed Apr 26 23:09:38 2017  - WARNING: Unable to connect to IPC. Continuing anyway.
+Wed Apr 26 23:09:38 2017  - INFO   : Vision: ready
+
+Wed Apr 26 23:09:38 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed Apr 26 23:15:48 2017  - INFO   : Vision Module: Starting vision module
+Wed Apr 26 23:15:48 2017  - INFO   : Vision: Initializing cameras
+Wed Apr 26 23:15:48 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 23:15:48 2017  - INFO   : Vision: reading camera config file
+Wed Apr 26 23:15:48 2017  - INFO   : Vision: Initializing IPC
+Wed Apr 26 23:15:48 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed Apr 26 23:15:53 2017  - FATAL  : initIPC: Unable to connect to the central server
+Wed Apr 26 23:15:53 2017  - WARNING: Unable to connect to IPC. Continuing anyway.
+Wed Apr 26 23:15:54 2017  - INFO   : Vision: ready
+
+Wed Apr 26 23:15:54 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Fri May  5 15:43:13 2017  - INFO   : Vision Module: Starting vision module
+Fri May  5 15:43:13 2017  - INFO   : Vision: Initializing cameras
+Fri May  5 15:43:13 2017  - INFO   : Vision: reading camera config file
+Fri May  5 15:43:13 2017  - INFO   : Vision: reading camera config file
+Fri May  5 15:43:13 2017  - INFO   : Vision: Initializing IPC
+Fri May  5 15:43:13 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Fri May  5 15:43:13 2017  - INFO   : Connected to IPC as module svmd
+Fri May  5 15:43:13 2017  - INFO   : Defining IPC types and messages for SVM
+Fri May  5 15:43:13 2017  - INFO   : Vision: process 3822 responding
+Fri May  5 15:43:13 2017  - INFO   : Vision: ready
+
+Fri May  5 15:43:13 2017  - INFO   : Vision mode: Camera 0, half resolution
+Fri May  5 15:47:45 2017  - INFO   : Vision Module: Starting vision module
+Fri May  5 15:47:45 2017  - INFO   : Vision: Initializing cameras
+Fri May  5 15:47:45 2017  - INFO   : Vision: reading camera config file
+Fri May  5 15:47:45 2017  - INFO   : Vision: reading camera config file
+Fri May  5 15:47:45 2017  - INFO   : Vision: Initializing IPC
+Fri May  5 15:47:45 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Fri May  5 15:47:45 2017  - INFO   : Connected to IPC as module svmd
+Fri May  5 15:47:45 2017  - INFO   : Defining IPC types and messages for SVM
+Fri May  5 15:47:45 2017  - INFO   : Vision: process 3909 responding
+Fri May  5 15:47:45 2017  - INFO   : Vision: ready
+
+Fri May  5 15:47:45 2017  - INFO   : Vision mode: Camera 0, half resolution
+Fri May  5 17:28:51 2017  - INFO   : Vision Module: Starting vision module
+Fri May  5 17:28:51 2017  - INFO   : Vision: Initializing cameras
+Fri May  5 17:28:51 2017  - INFO   : Vision: reading camera config file
+Fri May  5 17:28:51 2017  - INFO   : Vision: reading camera config file
+Fri May  5 17:28:51 2017  - INFO   : Vision: Initializing IPC
+Fri May  5 17:28:51 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Fri May  5 17:28:51 2017  - INFO   : Connected to IPC as module svmd
+Fri May  5 17:28:51 2017  - INFO   : Defining IPC types and messages for SVM
+Fri May  5 17:28:51 2017  - INFO   : Vision: process 5210 responding
+Fri May  5 17:28:51 2017  - INFO   : Vision: ready
+
+Fri May  5 17:28:51 2017  - INFO   : Vision mode: Camera 0, half resolution
+Sat May  6 17:46:25 2017  - INFO   : Vision Module: Starting vision module
+Sat May  6 17:46:25 2017  - INFO   : Vision: Initializing cameras
+Sat May  6 17:46:25 2017  - INFO   : Vision: reading camera config file
+Sat May  6 17:46:25 2017  - INFO   : Vision: reading camera config file
+Sat May  6 17:46:25 2017  - INFO   : Vision: Initializing IPC
+Sat May  6 17:46:25 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sat May  6 17:46:25 2017  - INFO   : Connected to IPC as module svmd
+Sat May  6 17:46:25 2017  - INFO   : Defining IPC types and messages for SVM
+Sat May  6 17:46:25 2017  - INFO   : Vision: process 11728 responding
+Sat May  6 17:46:25 2017  - INFO   : Vision: ready
+
+Sat May  6 17:46:25 2017  - INFO   : Vision mode: Camera 0, half resolution
+Sat May  6 17:59:16 2017  - INFO   : Vision Module: Starting vision module
+Sat May  6 17:59:16 2017  - INFO   : Vision: Initializing cameras
+Sat May  6 17:59:16 2017  - INFO   : Vision: reading camera config file
+Sat May  6 17:59:16 2017  - INFO   : Vision: reading camera config file
+Sat May  6 17:59:16 2017  - INFO   : Vision: Initializing IPC
+Sat May  6 17:59:16 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Sat May  6 17:59:16 2017  - INFO   : Connected to IPC as module svmd
+Sat May  6 17:59:16 2017  - INFO   : Defining IPC types and messages for SVM
+Sat May  6 17:59:16 2017  - INFO   : Vision: process 12044 responding
+Sat May  6 17:59:16 2017  - INFO   : Vision: ready
+
+Sat May  6 17:59:16 2017  - INFO   : Vision mode: Camera 0, half resolution
+Mon May  8 20:14:50 2017  - INFO   : Vision Module: Starting vision module
+Mon May  8 20:14:50 2017  - INFO   : Vision: Initializing cameras
+Mon May  8 20:14:50 2017  - INFO   : Vision: reading camera config file
+Mon May  8 20:14:50 2017  - INFO   : Vision: reading camera config file
+Mon May  8 20:14:50 2017  - INFO   : Vision: Initializing IPC
+Mon May  8 20:14:50 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Mon May  8 20:14:50 2017  - INFO   : Connected to IPC as module svmd
+Mon May  8 20:14:50 2017  - INFO   : Defining IPC types and messages for SVM
+Mon May  8 20:14:50 2017  - INFO   : Vision: process 22117 responding
+Mon May  8 20:14:50 2017  - INFO   : Vision: ready
+
+Mon May  8 20:14:50 2017  - INFO   : Vision mode: Camera 0, half resolution
+Mon May  8 21:12:15 2017  - INFO   : Vision Module: Starting vision module
+Mon May  8 21:12:15 2017  - INFO   : Vision: Initializing cameras
+Mon May  8 21:12:15 2017  - INFO   : Vision: reading camera config file
+Mon May  8 21:12:15 2017  - INFO   : Vision: reading camera config file
+Mon May  8 21:12:15 2017  - INFO   : Vision: Initializing IPC
+Mon May  8 21:12:15 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Mon May  8 21:12:20 2017  - FATAL  : initIPC: Unable to connect to the central server
+Mon May  8 21:12:20 2017  - WARNING: Unable to connect to IPC. Continuing anyway.
+Mon May  8 21:12:20 2017  - INFO   : Vision: ready
+
+Mon May  8 21:12:20 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Mon May  8 21:12:22 2017  - INFO   : Connected to IPC as module svmd
+Mon May  8 21:12:22 2017  - INFO   : Defining IPC types and messages for SVM
+Mon May  8 21:12:23 2017  - INFO   : Vision: process 22586 responding
+Mon May  8 21:12:23 2017  - INFO   : Vision mode: Camera 0, half resolution
+Mon May  8 21:12:29 2017  - INFO   : Vision Module: Starting vision module
+Mon May  8 21:12:29 2017  - INFO   : Vision: Initializing cameras
+Mon May  8 21:12:29 2017  - INFO   : Vision: reading camera config file
+Mon May  8 21:12:29 2017  - INFO   : Vision: reading camera config file
+Mon May  8 21:12:29 2017  - INFO   : Vision: Initializing IPC
+Mon May  8 21:12:29 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Mon May  8 21:12:29 2017  - INFO   : Connected to IPC as module svmd
+Mon May  8 21:12:29 2017  - INFO   : Defining IPC types and messages for SVM
+Mon May  8 21:12:29 2017  - INFO   : Vision: process 22592 responding
+Mon May  8 21:12:29 2017  - INFO   : Vision: ready
+
+Mon May  8 21:12:29 2017  - INFO   : Vision mode: Camera 0, half resolution
+Mon May  8 21:12:29 2017  - FATAL  : Vision: Unable to open camera.
+Mon May  8 21:13:24 2017  - INFO   : Vision Module: Starting vision module
+Mon May  8 21:13:24 2017  - INFO   : Vision: Initializing cameras
+Mon May  8 21:13:24 2017  - INFO   : Vision: reading camera config file
+Mon May  8 21:13:24 2017  - INFO   : Vision: reading camera config file
+Mon May  8 21:13:24 2017  - INFO   : Vision: Initializing IPC
+Mon May  8 21:13:24 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Mon May  8 21:13:24 2017  - INFO   : Connected to IPC as module svmd
+Mon May  8 21:13:24 2017  - INFO   : Defining IPC types and messages for SVM
+Mon May  8 21:13:24 2017  - INFO   : Vision: process 22687 responding
+Mon May  8 21:13:24 2017  - INFO   : Vision: ready
+
+Mon May  8 21:13:24 2017  - INFO   : Vision mode: Camera 0, half resolution
+Tue May  9 11:22:50 2017  - INFO   : Vision Module: Starting vision module
+Tue May  9 11:22:50 2017  - INFO   : Vision: Initializing cameras
+Tue May  9 11:22:50 2017  - INFO   : Vision: reading camera config file
+Tue May  9 11:22:50 2017  - INFO   : Vision: reading camera config file
+Tue May  9 11:22:50 2017  - INFO   : Vision: Initializing IPC
+Tue May  9 11:22:50 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Tue May  9 11:22:50 2017  - INFO   : Connected to IPC as module svmd
+Tue May  9 11:22:50 2017  - INFO   : Defining IPC types and messages for SVM
+Tue May  9 11:22:50 2017  - INFO   : Vision: process 13827 responding
+Tue May  9 11:22:50 2017  - INFO   : Vision: ready
+
+Tue May  9 11:22:50 2017  - INFO   : Vision mode: Camera 0, half resolution
+Tue May  9 11:28:18 2017  - INFO   : Vision Module: Starting vision module
+Tue May  9 11:28:18 2017  - INFO   : Vision: Initializing cameras
+Tue May  9 11:28:18 2017  - INFO   : Vision: reading camera config file
+Tue May  9 11:28:18 2017  - INFO   : Vision: reading camera config file
+Tue May  9 11:28:18 2017  - INFO   : Vision: Initializing IPC
+Tue May  9 11:28:18 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Tue May  9 11:28:18 2017  - INFO   : Connected to IPC as module svmd
+Tue May  9 11:28:18 2017  - INFO   : Defining IPC types and messages for SVM
+Tue May  9 11:28:18 2017  - INFO   : Vision: process 2593 responding
+Tue May  9 11:28:18 2017  - INFO   : Vision: ready
+
+Tue May  9 11:28:18 2017  - INFO   : Vision mode: Camera 0, half resolution
+Tue May  9 18:57:00 2017  - INFO   : Vision Module: Starting vision module
+Tue May  9 18:57:00 2017  - INFO   : Vision: Initializing cameras
+Tue May  9 18:57:00 2017  - INFO   : Vision: reading camera config file
+Tue May  9 18:57:00 2017  - INFO   : Vision: reading camera config file
+Tue May  9 18:57:00 2017  - INFO   : Vision: Initializing IPC
+Tue May  9 18:57:00 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Tue May  9 18:57:00 2017  - INFO   : Connected to IPC as module svmd
+Tue May  9 18:57:00 2017  - INFO   : Defining IPC types and messages for SVM
+Tue May  9 18:57:00 2017  - INFO   : Vision: process 10308 responding
+Tue May  9 18:57:00 2017  - INFO   : Vision: ready
+
+Tue May  9 18:57:00 2017  - INFO   : Vision mode: Camera 0, half resolution
+Tue May  9 20:09:18 2017  - INFO   : Vision Module: Starting vision module
+Tue May  9 20:09:18 2017  - INFO   : Vision: Initializing cameras
+Tue May  9 20:09:18 2017  - INFO   : Vision: reading camera config file
+Tue May  9 20:09:18 2017  - INFO   : Vision: reading camera config file
+Tue May  9 20:09:18 2017  - INFO   : Vision: Initializing IPC
+Tue May  9 20:09:18 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Tue May  9 20:09:18 2017  - INFO   : Connected to IPC as module svmd
+Tue May  9 20:09:18 2017  - INFO   : Defining IPC types and messages for SVM
+Tue May  9 20:09:18 2017  - INFO   : Vision: process 19270 responding
+Tue May  9 20:09:18 2017  - INFO   : Vision: ready
+
+Tue May  9 20:09:18 2017  - INFO   : Vision mode: Camera 0, half resolution
+Wed May 10 12:01:07 2017  - INFO   : Vision Module: Starting vision module
+Wed May 10 12:01:07 2017  - INFO   : Vision: Initializing cameras
+Wed May 10 12:01:07 2017  - INFO   : Vision: reading camera config file
+Wed May 10 12:01:07 2017  - INFO   : Vision: reading camera config file
+Wed May 10 12:01:07 2017  - INFO   : Vision: Initializing IPC
+Wed May 10 12:01:07 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed May 10 12:01:07 2017  - INFO   : Connected to IPC as module svmd
+Wed May 10 12:01:07 2017  - INFO   : Defining IPC types and messages for SVM
+Wed May 10 12:01:07 2017  - INFO   : Vision: process 3563 responding
+Wed May 10 12:01:07 2017  - INFO   : Vision: ready
+
+Wed May 10 12:01:07 2017  - INFO   : Vision mode: Camera 0, half resolution
+Wed May 10 13:48:26 2017  - INFO   : Vision Module: Starting vision module
+Wed May 10 13:48:26 2017  - INFO   : Vision: Initializing cameras
+Wed May 10 13:48:26 2017  - INFO   : Vision: reading camera config file
+Wed May 10 13:48:26 2017  - INFO   : Vision: reading camera config file
+Wed May 10 13:48:26 2017  - INFO   : Vision: Initializing IPC
+Wed May 10 13:48:26 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed May 10 13:48:26 2017  - INFO   : Connected to IPC as module svmd
+Wed May 10 13:48:26 2017  - INFO   : Defining IPC types and messages for SVM
+Wed May 10 13:48:26 2017  - INFO   : Vision: process 2682 responding
+Wed May 10 13:48:26 2017  - INFO   : Vision: ready
+
+Wed May 10 13:48:26 2017  - INFO   : Vision mode: Camera 0, half resolution
+Wed May 10 16:50:04 2017  - INFO   : Vision Module: Starting vision module
+Wed May 10 16:50:04 2017  - INFO   : Vision: Initializing cameras
+Wed May 10 16:50:04 2017  - INFO   : Vision: reading camera config file
+Wed May 10 16:50:04 2017  - INFO   : Vision: reading camera config file
+Wed May 10 16:50:04 2017  - INFO   : Vision: Initializing IPC
+Wed May 10 16:50:04 2017  - WARNING: IPC disconnected. Attempting to reconnect
+Wed May 10 16:50:04 2017  - INFO   : Connected to IPC as module svmd
+Wed May 10 16:50:04 2017  - INFO   : Defining IPC types and messages for SVM
+Wed May 10 16:50:04 2017  - INFO   : Vision: process 7421 responding
+Wed May 10 16:50:04 2017  - INFO   : Vision: ready
+
+Wed May 10 16:50:04 2017  - INFO   : Vision mode: Camera 0, half resolution
